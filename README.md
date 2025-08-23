@@ -60,6 +60,8 @@ libanogs.so
 | 20 | sub_C31983C | منطق عام | تحكم داخلي، يستدعي دوال حماية فقط |
 
 ---
+ثغرات libanogs.so
+---
 [line 82]
 // int isalpha(int);
 // __pid_t getppid(void);
